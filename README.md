@@ -4,7 +4,7 @@ Aplicación de gestión de citas. Utiliza Spring Boot, Java 17 y MySQL para prop
 
 ## Descripción
 
-La aplicación permite a los doctores del área de Medicina Interna gestionar sus citas de manera eficiente. Las funcionalidades incluyen:
+API REST que con las siguientes funcionalidades:
 
 - Agendar citas
 - Consultar citas
