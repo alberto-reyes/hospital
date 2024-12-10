@@ -1,4 +1,4 @@
-# Hospital Management System
+# Citas Hospital 
 
 Aplicación de gestión de citas. Utiliza Spring Boot, Java 17 y MySQL para proporcionar una API REST.
 
